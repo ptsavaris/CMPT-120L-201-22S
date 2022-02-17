@@ -1,0 +1,33 @@
+from pickle import FALSE, TRUE
+
+
+name = 'Peter'
+age = 18
+is_male = TRUE
+weight = 150
+
+input1 = 9
+input2 = 4
+
+print (input1 - input2)
+print (input1 * input2)
+print (input1 ** input2)
+print (input1 + input2)
+
+input3 = 50
+input4 = 7
+
+print (input3 + input4)
+
+age_as_string = '50'
+print (age_as_string)
+
+jersey_number = 10
+print (jersey_number)
+
+carbon_atomic_mass = 12.0107
+print (carbon_atomic_mass)
+
+is_short = FALSE
+
+{'Peter', 'John', 'Alex', 'Nathan'}
