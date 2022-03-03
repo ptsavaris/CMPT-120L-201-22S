@@ -12,7 +12,7 @@ print(input1 ** input2)
 arr = [1,2,2,2,2,2,3,3,3,4,5]
 def getcount(arr,value):
     return arr.count(value)
-print(getcount(arr,5))
+print(getcount(arr,2))
 
 x1 = 2
 y1 = 5
